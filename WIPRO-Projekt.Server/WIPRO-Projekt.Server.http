@@ -1,0 +1,6 @@
+@WIPRO_Projekt.Server_HostAddress = http://localhost:5285
+
+GET {{WIPRO_Projekt.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
